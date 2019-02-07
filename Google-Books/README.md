@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The application shows a google search on any books. You can save books you have selected and delete them once you don't want them anymore.
